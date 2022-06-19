@@ -1,4 +1,4 @@
-# A Typescript version of the Serverless Stack Demo Notes App
+# A Typescript version of the SST Demo Notes App
 
 I followed the awesome [Serverless Stack (SST) guide](https://serverless-stack.com) and coded the [Demo notes app](https://github.com/serverless-stack/demo-notes-app) using Typescript instead of Javascript.
 
